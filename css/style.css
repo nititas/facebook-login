@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css?family=Kanit|Montserrat+Subrayada|Roboto');
+
+body {
+    font-family: 'Roboto','Kanit', sans-serif;
+
+}
+b{
+	color: #FF7276;
+}
+h1{
+	color: #FF7276;
+	font-family: 'Montserrat Subrayada', sans-serif;
+}
+p {
+	color: #27AAE1;
+}
+.myButton {
+	-moz-box-shadow: 0px 10px 14px -7px #9fb4f2;
+    -webkit-box-shadow: 0px 10px 14px -7px #9fb4f2;
+    box-shadow: 0px 10px 14px -7px #9fb4f2;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #7892c2), color-stop(1, #476e9e));
+    background: -moz-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+    background: -webkit-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+    background: -o-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+    background: -ms-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+    background: linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7892c2', endColorstr='#476e9e',GradientType=0);
+    background-color: #7892c2;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 24px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    width: 259px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 17px;
+    /* font-weight: bold; */
+    padding: 13px 32px;
+    text-decoration: none;
+    /* text-shadow: 0px 1px 0px #283966; */
+    font-family: 'db_ozone_xlight';
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #476e9e), color-stop(1, #7892c2));
+	background:-moz-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+	background:-webkit-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+	background:-o-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+	background:-ms-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#476e9e', endColorstr='#7892c2',GradientType=0);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.myButton1 {
+	    -moz-box-shadow: 0px 10px 14px -7px #f09e9e;
+    -webkit-box-shadow: 0px 10px 14px -7px rgba(109, 212, 192, 0);
+    /* box-shadow: 0px 10px 14px -7px #f09e9e; */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #56bfab), color-stop(1, #6dd4c0));
+    background: -moz-linear-gradient(top, #e66868 5%, #e64e4e 100%);
+    background: -webkit-linear-gradient(top, #e66868 5%, #e64e4e 100%);
+    background: -o-linear-gradient(top, #e66868 5%, #e64e4e 100%);
+    background: -ms-linear-gradient(top, #e66868 5%, #e64e4e 100%);
+    background: linear-gradient(to bottom, #6dd4c0 5%, #56bfab 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e66868', endColorstr='#e64e4e',GradientType=0);
+    background-color: #6dd4c0;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 13px 32px;
+    text-decoration: none;
+    /* text-shadow: 0px 1px 0px #662929; */
+    font-family: 'db_ozone_xlight';
+    margin-top: 50px;
+    margin-left: 119px;
+    position: absolute;
+}
+.myButton1:hover {
+	
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #e64e4e), color-stop(1, #e66868));
+	background:-moz-linear-gradient(top, #e64e4e 5%, #e66868 100%);
+	background:-webkit-linear-gradient(top, #e64e4e 5%, #e66868 100%);
+	background:-o-linear-gradient(top, #e64e4e 5%, #6dd4c0 100%);
+	background:-ms-linear-gradient(top, #e64e4e 5%, #e66868 100%);
+	background:linear-gradient(to bottom, #56bfab 5%, #6dd4c0 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e64e4e', endColorstr='#e66868',GradientType=0);
+	background-color:#6dd4c0;
+
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
+

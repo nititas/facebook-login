@@ -1,0 +1,197 @@
+
+@font-face {
+    font-family: 'db_ozone_xlight';
+    src: url('../font/db_ozone_x_li_v3.2-webfont.woff2') format('woff2'),
+         url('../font/db_ozone_x_li_v3.2-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+body{
+	background-color: #222;
+	font-family: 'db_ozone_xlight';
+}
+.box_text h1{
+	    font-size: 15px;
+    color: #222;
+    margin-left: 20px;
+    float: left;
+        padding-top: 48px;
+    text-align: -webkit-auto;
+    position: relative;
+    font-family: 'db_ozone_xlight';
+    /* margin-left: 135px; */
+    /* margin-top: 25px; */
+}
+h3{
+	font-size: 16px;
+	color: #000;
+	text-align: center;
+}
+h2{
+	font-size: 30px;
+	color: #d7d7d7;
+	font-weight: normal;
+}
+h5{
+	font-size: 36px;
+	color: #d7d7d7;
+	margin-top: -20px;
+	font-weight: normal;
+	font-family: 'db_ozone_xlight';
+}
+h6{
+	font-size: 30px;
+	color: #d7d7d7;
+	font-weight: normal;
+	font-family: 'db_ozone_xlight';
+}
+.screen{
+/*	width: 750px;
+	height: 1334px;*/
+	width: 375px;
+	height: 667px;
+	background-color: #fff;
+	margin: 0 auto;
+}
+.box_Banner{
+	width: 375px;
+	height: 70px;
+	background-color: #6a7182;
+	margin: 0 auto;
+
+
+}
+.box_Banner1{
+
+   width: 375px;
+    height: 70px;
+    margin-left: 138px;
+    margin-top: 70px;
+    
+}
+.box_img_insert {
+    width: 286px;
+    height: 145px;
+    background-repeat: repeat;
+    background: cover;
+    margin: 0 auto;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 43px;
+    background-repeat: round;
+    background-image: url(../img/bag.jpg);
+}
+.box_back{
+        width: 32px;
+    height: 36.5px;
+    /* margin: 0 auto; */
+    position: relative;
+    padding-top: -47px;
+    margin-top: -44px;
+    margin-left: 12px;
+    background-repeat: round;
+    background-image: url(../img/back2.svg);
+}
+.box_ture{
+    font-size: 20px;
+    color: #6dd4c0;
+    width: 22px;
+    height: 36.5px;
+    position: absolute;
+    margin: 0 auto;
+    /* margin-top: -25px; */
+    padding-top: -50px;
+    margin-top: -35px;
+    margin-left: 322px;
+    background-repeat: round;
+    border-radius: 0px;
+    border: none;
+    background-color: #6a7182;
+    /* background-image: url(../img/ture1.svg); */
+    outline: none;
+    font-family: 'db_ozone_xlight';
+    
+
+}
+
+.box_Choice{
+	width: 375px;
+	height: 598px;
+	background-color: #ffffff;
+	margin: 0 auto;
+	border-bottom: 1px solid #b8b8b8;
+
+}
+.box_Choice_1{
+	width: 50%;
+	height: 68.5px;
+	background-color: #ffffff;
+	float: left;
+	/*//border-left: 1px solid #b8b8b8;*/
+	border-bottom: 3px solid #6dd4c0;
+
+}
+.box-input{
+	width: 246px;
+    height: 50px;
+    margin: 0 auto;
+    position: absolute;
+    margin-top: 217px;
+    margin-left: 28px;
+}
+.box-input input{
+	width: 310px;
+    height: 31px;
+    margin: 0 auto;
+    border: 0px;
+    border-radius: 16px;
+    text-align: center;
+    font-family: 'db_ozone_xlight';
+    font-size: 20px;
+    outline: none;
+}
+.box_List{
+        float: left;
+    width: 375px;
+    margin-left: -28px;
+    /* height: 425px; */
+    height: 0 auto;
+    background-color: #fafafa;
+    /* margin: 0 auto; */
+    margin-top: 80px;
+
+}
+.text-List h1{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 125px;
+    font-size: 24px;
+    color: #6dd4c0;
+    text-align: center;
+    font-family: 'db_ozone_xlight';
+
+}
+.text-List_insert h1{
+    float: left;
+    margin-top: 30px;
+    margin-left: 33px;
+    font-size: 24px;
+    color: #6dd4c0;
+    text-align: center;
+    font-family: 'db_ozone_xlight';
+
+}
+.text-List_insert_amount h1{
+    float: right;
+    margin-top: 30px;
+    margin-right: 33px;
+    font-size: 24px;
+    color: #6dd4c0;
+    text-align: center;
+    font-family: 'db_ozone_xlight';
+
+}
